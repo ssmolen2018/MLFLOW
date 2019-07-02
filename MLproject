@@ -1,4 +1,4 @@
-name: tutorial
+name: testProjectRun
 
 conda_env: conda.yaml
 
